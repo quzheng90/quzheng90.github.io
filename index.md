@@ -1,16 +1,17 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
 	<head>
-		<meta charset="gbk">
+		<meta charset="utf-8">
+		<title>quzheng's Homepage</title>
         <link rel="stylesheet" type="text/css" href="css/style.css">
         <!--<link rel="shortcut icon" href="hku.png">-->
     </head>
     <body>
         <center>
-        <!--<div class=container id="container">
+        <div class=container id="container">
   <p align="right"><a href ="index.html"><img src="figures/cn_icon.png" alt="[Chinese]" width=39px height=39px></a><a href ="indexen.html"><img src="figures/en_icon.png" alt="[English]" width=39px height=39px ></a></p>
-        <div>-->
-            <!--<img src="figures/me-small.jpg" width=235px height=235px align=right float=right style="margin-top:20px;margin-right:50px;">--> 
+        <div>
+            <img src="figures/me-small.jpg" width=235px height=235px align=right float=right style="margin-top:20px;margin-right:50px;"> 
             <div style="margin-left:10px">
 		<br>
                 <h1>曲政</h1>          
@@ -20,7 +21,7 @@
                 <br>&nbsp;&nbsp; 上海杨浦区国定路777号
                 <br>
                 <br><b>电子邮箱:</b>
-                <br>&nbsp;&nbsp; quzheng90@outlook.com.cn
+                <br>&nbsp;&nbsp; quzheng [at] outlook [dot] com [dot] cn
             </div>
 		</div>
         <div style="display: inline-block;">
