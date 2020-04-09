@@ -20,7 +20,7 @@
                 <br>&nbsp;&nbsp; 上海杨浦区国定路777号
                 <br>
                 <br><b>电子邮箱:</b>
-                <br>&nbsp;&nbsp; quzheng@outlook.com.cn
+                <br>&nbsp;&nbsp; quzheng90@outlook.com.cn
             </div>
 		</div>
         <div style="display: inline-block;">
