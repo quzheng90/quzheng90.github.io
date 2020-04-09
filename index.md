@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Wenting Tu's Homepage</title>
+		<title>quzheng's Homepage</title>
         <link rel="stylesheet" type="text/css" href="css/style.css">
         <!--<link rel="shortcut icon" href="hku.png">-->
     </head>
@@ -10,23 +10,22 @@
         <div class=container id="container">
   <p align="right"><a href ="index.html"><img src="figures/cn_icon.png" alt="[Chinese]" width=39px height=39px></a><a href ="indexen.html"><img src="figures/en_icon.png" alt="[English]" width=39px height=39px ></a></p>
         <div>
-            <!--<img src="figures/wttu-hp.jpg" width=220px height=240px align=right float=right style="margin-top:30px;margin-right:70px;">-->
             <img src="figures/me-small.jpg" width=235px height=235px align=right float=right style="margin-top:20px;margin-right:50px;"> 
             <div style="margin-left:10px">
 		<br>
-                <h1>涂文婷</h1>          
+                <h1>曲政</h1>          
                 <b>联络地址:</b>
                 <br>&nbsp;&nbsp; 计算机系，信息管理与工程学院
                 <br>&nbsp;&nbsp; 上海财经大学
                 <br>&nbsp;&nbsp; 上海杨浦区国定路777号
                 <br>
                 <br><b>电子邮箱:</b>
-                <br>&nbsp;&nbsp; tu.wenting [at] mail [dot] shufe [dot] edu [dot] cn
+                <br>&nbsp;&nbsp; quzheng [at] outlook [dot] com [dot] cn
             </div>
 		</div>
         <div style="display: inline-block;">
-		我目前在<a href="http://www.shufe.edu.cn/" target="_blank">上海财经大学</a>的<a href="http://sime.shufe.edu.cn/" target="_blank">信息管理工程学院</a>担任副教授。我于2016年从<a href="http://www.cs.hku.hk/" target="_blank">香港大学</a>的<a href="http://www.cs.hku.hk/" target="_blank">计算机科学系</a>获得博士学位，师从<a href="http://i.cs.hku.hk/~dcheung/" target="_blank">Prof. David Cheung</a>和<a href="http://www.cs.uoi.gr/~nikos/indexb.html" target="_blank">Prof. Nikos Mamoulis</a>。在此之前, 我于2012年从<a href="http://www.ecnu.edu.cn/" target="_blank">华东师范大学</a>的<a href="http://www.cs.ecnu.edu.cn/" target="_blank">计算机系</a>获得硕士学位，师从<a href="http://www.cst.ecnu.edu.cn/~slsun/" target="_blank">孙仕亮教授</a>。
-		<br>我的研究兴趣包括机器学习算法以及相关应用，包括但不限于迁移学习、深度学习、文本挖掘技术在智能金融（例如信贷风控、智能投顾）、推荐系统、精准医疗、教育大数据上的应用。欢迎点击下面的各个栏目来了解我的科研和教学。
+		我目前在<a href="http://www.shufe.edu.cn/" target="_blank">上海财经大学</a>的<a href="http://sime.shufe.edu.cn/" target="_blank">信息管理工程学院</a>。我于2017年从<a href="http://www.sdu.edu.cn/" target="_blank">山东大学</a>的计算机系获得硕士学位。
+		<br>我的研究兴趣包括机器学习算法以及相关应用，包括但不限于迁移学习、深度学习、文本挖掘技术在智能金融（例如信贷风控、智能投顾）、教育大数据上的应用。
 </div>
         		<ul>
 				<li style="list-style-type:none;text-align: right; ">--------------- 感谢我的父母和爱人 <span style="text-align: center;">--------------</span></li><li style="list-style-type:none;text-align: right; ">-----Deepest gratitude to my parents and sweetheart-----</li>
