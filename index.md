@@ -28,9 +28,6 @@
 		我目前在<a href="http://www.shufe.edu.cn/" target="_blank">上海财经大学</a>的<a href="http://sime.shufe.edu.cn/" target="_blank">信息管理工程学院</a>。我于2017年从<a href="http://www.sdu.edu.cn/" target="_blank">山东大学</a>的计算机系获得硕士学位。
 		<br>我的研究兴趣包括机器学习算法以及相关应用，包括但不限于迁移学习、深度学习、文本挖掘技术在智能金融（例如信贷风控、智能投顾）、教育大数据上的应用。
 </div>
-        		<ul>
-				<li style="list-style-type:none;text-align: right; ">--------------- 感谢我的父母和爱人 <span style="text-align: center;">--------------</span></li><li style="list-style-type:none;text-align: right; ">-----Deepest gratitude to my parents and sweetheart-----</li>
-			</ul>
         	</center>
 	</body>
 </html>
