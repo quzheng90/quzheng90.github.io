@@ -23,22 +23,14 @@
                 <br><b>电子邮箱:</b>
                 <br>&nbsp;&nbsp; tu.wenting [at] mail [dot] shufe [dot] edu [dot] cn
             </div>
-        </div>
-        
-        <br>
-        <hr>
-        
-        <div style="display: inline-block;">
-        我目前在<a href="http://www.shufe.edu.cn/" target="_blank">上海财经大学</a>的<a href="http://sime.shufe.edu.cn/" target="_blank">信息管理工程学院</a>担任副教授。我于2016年从<a href="http://www.cs.hku.hk/" target="_blank">香港大学</a>的<a href="http://www.cs.hku.hk/" target="_blank">计算机科学系</a>获得博士学位，师从<a href="http://i.cs.hku.hk/~dcheung/" target="_blank">Prof. David Cheung</a>和<a href="http://www.cs.uoi.gr/~nikos/indexb.html" target="_blank">Prof. Nikos Mamoulis</a>。在此之前, 我于2012年从<a href="http://www.ecnu.edu.cn/" target="_blank">华东师范大学</a>的<a href="http://www.cs.ecnu.edu.cn/" target="_blank">计算机系</a>获得硕士学位，师从<a href="http://www.cst.ecnu.edu.cn/~slsun/" target="_blank">孙仕亮教授</a>。
-		<br>我的研究兴趣包括机器学习算法以及相关应用，包括但不限于迁移学习、深度学习、文本挖掘技术在智能金融（例如信贷风控、智能投顾）、推荐系统、精准医疗、教育大数据上的应用。欢迎点击下面的各个栏目来了解我的科研和教学。
 		</div>
-	<br>
-        <hr>
-        <center>
-        <p>[<a href="./index.html">自我介绍</a>] [<a href="./Publication.html">发表论文</a>] [<a href="./Research.html">研究内容</a>] [<a href="./Teaching.html">教学情况</a>] [<a href="./Recruitment.html">招生情况</a>]</p>
-        </center>
-        <ul><li style="list-style-type:none;text-align: right; ">--------------- 感谢我的父母和爱人 <span style="text-align: center;">--------------</span></li><li style="list-style-type:none;text-align: right; ">-----Deepest gratitude to my parents and sweetheart-----</li></ul>
-        </center>
-    
-
-<div id="cntvlive2-is-installed"></div></body></html>
+        <div style="display: inline-block;">
+		我目前在<a href="http://www.shufe.edu.cn/" target="_blank">上海财经大学</a>的<a href="http://sime.shufe.edu.cn/" target="_blank">信息管理工程学院</a>担任副教授。我于2016年从<a href="http://www.cs.hku.hk/" target="_blank">香港大学</a>的<a href="http://www.cs.hku.hk/" target="_blank">计算机科学系</a>获得博士学位，师从<a href="http://i.cs.hku.hk/~dcheung/" target="_blank">Prof. David Cheung</a>和<a href="http://www.cs.uoi.gr/~nikos/indexb.html" target="_blank">Prof. Nikos Mamoulis</a>。在此之前, 我于2012年从<a href="http://www.ecnu.edu.cn/" target="_blank">华东师范大学</a>的<a href="http://www.cs.ecnu.edu.cn/" target="_blank">计算机系</a>获得硕士学位，师从<a href="http://www.cst.ecnu.edu.cn/~slsun/" target="_blank">孙仕亮教授</a>。
+		<br>我的研究兴趣包括机器学习算法以及相关应用，包括但不限于迁移学习、深度学习、文本挖掘技术在智能金融（例如信贷风控、智能投顾）、推荐系统、精准医疗、教育大数据上的应用。欢迎点击下面的各个栏目来了解我的科研和教学。
+</div>
+        		<ul>
+				<li style="list-style-type:none;text-align: right; ">--------------- 感谢我的父母和爱人 <span style="text-align: center;">--------------</span></li><li style="list-style-type:none;text-align: right; ">-----Deepest gratitude to my parents and sweetheart-----</li>
+			</ul>
+        	</center>
+	</body>
+</html>
