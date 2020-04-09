@@ -14,7 +14,7 @@
             <img src="figures/me-small.jpg" width=235px height=235px align=right float=right style="margin-top:20px;margin-right:50px;"> 
             <div style="margin-left:10px">
 		<br>
-                <h1>曲政</h1>          
+                <h1>涂文婷</h1>          
                 <b>联络地址:</b>
                 <br>&nbsp;&nbsp; 计算机系，信息管理与工程学院
                 <br>&nbsp;&nbsp; 上海财经大学
