@@ -7,9 +7,9 @@
     </head>
     <body>
         <center>
-        <div class=container id="container">
+        <!--<div class=container id="container">
   <p align="right"><a href ="index.html"><img src="figures/cn_icon.png" alt="[Chinese]" width=39px height=39px></a><a href ="indexen.html"><img src="figures/en_icon.png" alt="[English]" width=39px height=39px ></a></p>
-        <div>
+        <div>-->
             <img src="figures/me-small.jpg" width=235px height=235px align=right float=right style="margin-top:20px;margin-right:50px;"> 
             <div style="margin-left:10px">
 		<br>
