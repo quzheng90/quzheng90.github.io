@@ -8,21 +8,30 @@
         <div>
             <div style="margin-left:10px">
 		<br>
-                <h1>曲政</h1>          
-                <b>联络地址:</b>
-                <br>&nbsp;&nbsp; 计算机系，信息管理与工程学院
-                <br>&nbsp;&nbsp; 上海财经大学
-                <br>&nbsp;&nbsp; 上海杨浦区国定路777号
+                <h1>quzheng</h1>          
+                <b>address:</b>
+                <br>&nbsp;&nbsp; Computer Science，School of information management and engineering
+                <br>&nbsp;&nbsp; Shanghai University of Finance and Economics
+                <br>&nbsp;&nbsp; 777 guoding road, yangpu district, Shanghai
                 <br>
-                <br><b>电子邮箱:</b>
+                <br><b>email:</b>
                 <br>&nbsp;&nbsp; quzheng90@outlook.com.cn
             </div>
 		</div>
         <div style="display: inline-block;">
-		我目前在<a href="http://www.shufe.edu.cn/" target="_blank">上海财经大学</a>的<a href="http://sime.shufe.edu.cn/" target="_blank">信息管理工程学院</a>。我于2017年从<a href="http://www.sdu.edu.cn/" target="_blank">山东大学</a>的自动化系获得硕士学位。
-		<br>我的研究兴趣包括机器学习算法以及相关应用，包括但不限于迁移学习、深度学习、文本挖掘技术在智能金融（例如信贷风控、智能投顾）、教育大数据上的应用。
+		I am currently in the<a href="http://sime.shufe.edu.cn/" target="_blank">school of information management engineering</a>,<a href="http://www.shufe.edu.cn/" target="_blank">Shanghai university of finance and economics</a>.I received my master's degree in automation from <a href="http://www.sdu.edu.cn/" target="_blank">shandong university</a> in 2017<br>My research interests include machine learning algorithms and related applications, including but not limited to the application of migration learning, deep learning, text mining technology in intelligent finance (such as credit risk control, intelligent investment management).
 </div>
 	</body>
 </html>
+<div>
+	<br><h2>education experience:</h2>
+	<br>School of information management and engineering&nbsp;&nbsp;Shanghai University of Finance and Economics;PhD student;2019.09-2023.09
+	<br>control science and engineering&nbsp;&nbsp;Shandong University;master;2014.09-2017.06
+	<br>control science and engineering&nbsp;&nbsp;Shandong University;Bachelor;2010.09-2014.06
+</div>
+<div>
+	<br><h2>work experience:</h2>
+	<br>Shanghai pudong development bank head office information technology department
+</div>
 <br>pubilcations
 <br>Zheng Qu, Research on Mapping and Localization of Indoor AGV Based on LADAR[D].ShanDong University,Jinan,Shandong,China,2017</br>
