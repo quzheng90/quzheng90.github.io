@@ -35,10 +35,10 @@
 	<br>Shanghai pudong development bank head office information technology department
 </div>
 <div>
-	<br><h2>pubilcations</h2>
+	<br><h2>publications</h2>
 	<br>Zheng Qu, Research on Mapping and Localization of Indoor AGV Based on LADAR[D].ShanDong University,Jinan,Shandong,China,2017</br>
 </div>
-
+<div>
 <br><h2>skills:</h2>
 	<br>programming language:
 		<li>python</li>
@@ -47,4 +47,5 @@
 		<li>sql</li>
 		<li>js</li>
 	<br>
+</div>
 
