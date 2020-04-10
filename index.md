@@ -6,7 +6,7 @@
     </head>
     <body>
         <div>
-            <div style="margin-left:10px">
+            <div style="margin-left:0px">
 		<br>
                 <h1>quzheng</h1>          
                 <b>address:</b>
@@ -34,8 +34,10 @@
 	<br><h2>work experience:</h2>
 	<br>Shanghai pudong development bank head office information technology department
 </div>
-<br><h2>pubilcations</h2>
-<br>Zheng Qu, Research on Mapping and Localization of Indoor AGV Based on LADAR[D].ShanDong University,Jinan,Shandong,China,2017</br>
+<div>
+	<br><h2>pubilcations</h2>
+	<br>Zheng Qu, Research on Mapping and Localization of Indoor AGV Based on LADAR[D].ShanDong University,Jinan,Shandong,China,2017</br>
+</div>
 
 <br><h2>skills:</h2>
 	<br>programming language:
