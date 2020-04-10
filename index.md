@@ -19,6 +19,7 @@
             </div>
 		</div>
         <div style="display: inline-block;">
+		<h2>personal statement:</h2>
 		I am currently in the<a href="http://sime.shufe.edu.cn/" target="_blank">school of information management engineering</a>,<a href="http://www.shufe.edu.cn/" target="_blank">Shanghai university of finance and economics</a>.I received my master's degree in automation from <a href="http://www.sdu.edu.cn/" target="_blank">shandong university</a> in 2017<br>My research interests include machine learning algorithms and related applications, including but not limited to the application of migration learning, deep learning, text mining technology in intelligent finance (such as credit risk control, intelligent investment management).
 </div>
 	</body>
@@ -33,5 +34,15 @@
 	<br><h2>work experience:</h2>
 	<br>Shanghai pudong development bank head office information technology department
 </div>
-<br>pubilcations
+<br><h2>pubilcations</h2>
 <br>Zheng Qu, Research on Mapping and Localization of Indoor AGV Based on LADAR[D].ShanDong University,Jinan,Shandong,China,2017</br>
+
+<br><h2>skills:</h2>
+	<br>programming language:
+		<li>python</li>
+		<li>java</li>
+		<li>c#</li>
+		<li>sql</li>
+		<li>js</li>
+	<br>
+
