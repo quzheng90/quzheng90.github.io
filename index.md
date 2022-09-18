@@ -42,8 +42,8 @@
 	<br>Shi A, Qu Z, Jia Q, et al. Rumor detection of COVID-19 pandemic on online social networks[C]//2020 IEEE/ACM Symposium on Edge Computing (SEC). IEEE, 2020: 376-381.
 </div>
 <div>
-	<h2>research interests:</h2>
-	text mining, security and privacy protection, social computing, mechine learning, and stochastic process
+	<br><h2>research interests:</h2>
+	<br>text mining, security and privacy protection, social computing, mechine learning, and stochastic process
 </div>
 <br><h2>skills:</h2>
 	<br>programming language:
