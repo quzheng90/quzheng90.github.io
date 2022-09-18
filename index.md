@@ -38,8 +38,8 @@
 </div>
 <div>
 	<br><h2>publications</h2>
-	
-	<br>Zheng Qu, Research on Mapping and Localization of Indoor AGV Based on LADAR[D].ShanDong University,Jinan,Shandong,China,2017</br>
+	<br>Qu Z, Lyu C, Chi C H. MUSH: Multi-Stimuli Hawkes Process based Sybil Attacker Detector for User-Review Social Networks[J]. IEEE Transactions on Network and Service Management, 2022.
+	<br>Shi A, Qu Z, Jia Q, et al. Rumor detection of COVID-19 pandemic on online social networks[C]//2020 IEEE/ACM Symposium on Edge Computing (SEC). IEEE, 2020: 376-381.
 </div>
 <div>
 <br><h2>skills:</h2>
