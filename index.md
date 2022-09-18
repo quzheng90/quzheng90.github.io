@@ -15,7 +15,7 @@
                 <br>&nbsp;&nbsp; 777 guoding road, yangpu district, Shanghai
                 <br>
                 <br><b>email:</b>
-                <br>&nbsp;&nbsp; quzheng90@outlook.com.cn
+                <br>&nbsp;&nbsp; quzheng90@outlook.com
             </div>
 		</div>
         <div style="display: inline-block;">
