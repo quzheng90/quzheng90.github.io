@@ -20,7 +20,7 @@
 		</div>
         <div style="display: inline-block;">
 		<h2>personal statement:</h2>
-		I am currently in the<a href="http://sime.shufe.edu.cn/" target="_blank">school of information management engineering</a>,<a href="http://www.shufe.edu.cn/" target="_blank">Shanghai university of finance and economics</a>.I received my master's degree in automation from <a href="http://www.sdu.edu.cn/" target="_blank">shandong university</a> in 2017<br>My research interests include Services and network computing including Intelligent service process management,AIOps;Machine Learning Algorithms and related applications, including but not limited to the application of migration learning, deep learning, text mining technology in intelligent finance (such as credit risk control, intelligent investment management).
+		I am currently in the<a href="http://sime.shufe.edu.cn/" target="_blank">school of information management engineering</a>,<a href="http://www.shufe.edu.cn/" target="_blank">Shanghai university of finance and economics</a>.I received my master's degree in automation from <a href="http://www.sdu.edu.cn/" target="_blank">shandong university</a> in 2017<br>My research interests include Services and network computing including Intelligent service process management,AIOps;Machine Learning Algorithms and related applications, including but not limited to the application of migration learning, deep learning, text mining technology in social networks (such as security and privacy protection, user behavior modeling).
 </div>
 	</body>
 </html>
