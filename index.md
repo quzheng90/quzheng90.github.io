@@ -26,16 +26,19 @@
 </html>
 <div>
 	<br><h2>education experience:</h2>
-	<br>School of information management and engineering&nbsp;&nbsp;Shanghai University of Finance and Economics;PhD student;2019.09-2023.09
+	<br>School of information management and engineering&nbsp;&nbsp;Shanghai University of Finance and Economics;PhD;2019.09-2023.09
 	<br>control science and engineering&nbsp;&nbsp;Shandong University;master;2014.09-2017.06
 	<br>control science and engineering&nbsp;&nbsp;Shandong University;Bachelor;2010.09-2014.06
 </div>
 <div>
 	<br><h2>work experience:</h2>
-	<br>Shanghai pudong development bank head office information technology department
+	<br>Shanghai Pudong Development Bank head office information technology department 
+		<li>software developer
+		<li>data scientist
 </div>
 <div>
 	<br><h2>publications</h2>
+	
 	<br>Zheng Qu, Research on Mapping and Localization of Indoor AGV Based on LADAR[D].ShanDong University,Jinan,Shandong,China,2017</br>
 </div>
 <div>
